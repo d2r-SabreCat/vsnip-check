@@ -1603,7 +1603,7 @@ NTIPAliasStat["unused183"] = 183;
 NTIPAliasStat["unused184"] = 184;
 NTIPAliasStat["unused185"] = 185;
 NTIPAliasStat["unused186"] = 186;
-NTIPAliasStat["unused187"] = 187;
+NTIPAliasStat["sundercold"] = 187;
 
 NTIPAliasStat["itemaddskilltab"] = 188;
 NTIPAliasStat["itemaddbowandcrossbowskilltab"] = [188, 0];
@@ -1649,11 +1649,11 @@ NTIPAliasStat["shadowdisciplinesskilltab"] = [188, 49];
 NTIPAliasStat["itemaddmartialartsskilltab"] = [188, 50];
 NTIPAliasStat["martialartsskilltab"] = [188, 50];
 
-NTIPAliasStat["unused189"] = 189;
-NTIPAliasStat["unused190"] = 190;
-NTIPAliasStat["unused191"] = 191;
-NTIPAliasStat["unused192"] = 192;
-NTIPAliasStat["unused193"] = 193;
+NTIPAliasStat["sunderfire"] = 189;
+NTIPAliasStat["sunderlightning"] = 190;
+NTIPAliasStat["sunderpoison"] = 191;
+NTIPAliasStat["sunderphysical"] = 192;
+NTIPAliasStat["sundermagic"] = 193;
 NTIPAliasStat["itemnumsockets"] = 194;	NTIPAliasStat["sockets"] = 194;
 NTIPAliasStat["itemskillonattack"] = [195, 1];
 NTIPAliasStat["itemskillonattacklevel"] = [195, 2];
